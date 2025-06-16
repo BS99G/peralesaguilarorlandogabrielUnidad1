@@ -30,8 +30,6 @@
             <h3 class="text-xl font-bold mb-4 neon-text-red">Otros</h3>
             <ul class="space-y-2">
                 <li><a href="index.php?page=sitemap" class="text-white hover:text-[#ff0033]">Mapa del Sitio</a></li>
-                <li><a href="index.php?page=privacy" class="text-white hover:text-[#ff0033]">Política de Privacidad</a></li>
-                <li><a href="index.php?page=terms" class="text-white hover:text-[#ff0033]">Términos y Condiciones</a></li>
             </ul>
         </div>
     </div>
