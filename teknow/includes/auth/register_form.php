@@ -129,7 +129,7 @@
                 type="submit"
                 class="cyber-btn w-full pulse-btn g-recaptcha"
                 id="registerButton"
-                data-sitekey="6Lf682ErAAAAAEMsGJDP_vHodhnPRM1FAiH_AeXf"
+                data-sitekey=""
                 data-callback="onSubmit"
                 data-action="submit"
             >
