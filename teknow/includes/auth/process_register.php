@@ -19,7 +19,7 @@ if (!$data) {
 // Validación reCAPTCHA
 $recaptchaToken = $data['recaptchaToken'] ?? '';
 
-$secretKey = '6Lf682ErAAAAAD5SCOZwNoZNeLouN6OuafcakV8V';
+$secretKey = '';
 
 // Verificar el token con Google
 $verifyUrl = 'https://www.google.com/recaptcha/api/siteverify';
